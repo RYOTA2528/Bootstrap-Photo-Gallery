@@ -8,3 +8,8 @@
   width: auto;
   height: 40vh;
 }
+
+/* Mac,Windows,その他のフォントの設定 */
+body{
+  font-family: "Hiragino Kaku Gothic ProN", "メイリオ", sans-serif;
+}
