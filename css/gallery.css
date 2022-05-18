@@ -1,0 +1,10 @@
+
+.bg-img{
+  background: no-repeat center center;
+  background-image: url(../images/cat1.jpg) ;
+  background-size: cover;
+  background-position: center;
+  /* background-size:contain; */
+  width: auto;
+  height: 40vh;
+}
